@@ -17,7 +17,7 @@
 
 - ✍️ **Get in Touch: kalpeshkawalkar@gmail.com**
 
-- 💯 **"It always seems impossible until it's done..!"**
+- ❤️‍🔥 **"It always seems impossible until it's done..!"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
