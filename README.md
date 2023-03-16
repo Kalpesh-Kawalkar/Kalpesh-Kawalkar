@@ -9,9 +9,9 @@
 
 - 🌱 **I'm always trying to grow and learn something new.**
 
-- 🫶 **Apart from this, I'm a moviebuff and a casual reader.**
-
 - ⚡ **A bit enthusiastic towards Data Science and Machine Learning.**
+
+- 🫶 **Apart from this, I'm a moviebuff and a casual reader.**
 
 - 😅 **I often lose track of time simply watching a great movie or reading a good book.**
 
