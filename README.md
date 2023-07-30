@@ -4,7 +4,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalpesh-kawalkar" alt="kalpesh-kawalkar" /></a> </p>
 
 
-- 👨‍🎓 **Hey, this is Kalpesh Kawalkar, a 3rd year Computer Science undergraduate at GCOEN.**
+- 👨‍🎓 **Hey, this is Kalpesh Kawalkar, a final year Computer Science undergraduate at GCOEN.**
 
 - 🌱 **I'm always trying to grow and learn something new.**
 
